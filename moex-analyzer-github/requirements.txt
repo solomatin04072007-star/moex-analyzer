@@ -1,0 +1,10 @@
+apimoex
+requests
+pandas
+pandas-ta
+streamlit
+plotly
+schedule
+xgboost
+scikit-learn
+joblib
